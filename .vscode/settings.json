@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        ".gitignore":true,
+        "hooks/":true,
+        "platforms":true,
+        "node_modules":true,
+        "**/LICENSE":true,
+        "README.md":true,
+        "tsconfig.json":true,
+        "**/*.js":true,
+        "**/*.js.map":true,
+        "lib":true,
+        ".vscode/":true,
+        "reference.d.ts":true,
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    }
+}
